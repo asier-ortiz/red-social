@@ -1,0 +1,13 @@
+{
+  "name": "red-social",
+  "version": "1.0.0",
+  "description": "Práctica creación red social con Bootstrap",
+  "main": "index.js",
+  "author": "Asier Ortiz García",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "bootstrap-icons": "^1.8.1",
+    "jquery": "^3.6.0"
+  }
+}
