@@ -1,8 +1,9 @@
-# DIW UD05TE01: *'Maquetación red social con Bootstrap'*
+# Red social
 
-## Instalación de dependencias
-- Si el proyecto no incluye el directorio `node_modules` ejecuta el comando para instalar Bootstrap:
+Social network mockup using Bootstrap responsive design. 
 
-```sh
-npm install --save
-```
+<img src="screenshots/screenshot-1.png" width="600">
+
+<img src="screenshots/screenshot-2.png" width="400">
+
+<img src="screenshots/screenshot-3.png" width="250">
